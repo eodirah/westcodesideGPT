@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./logo.jpeg" width="150" alt="Westcodeside Logo"/>
+  <img src="https://raw.githubusercontent.com/eodirah/eodirah/main/logo.jpeg" width="150" alt="Westcodeside Logo"/>
 </p>
 
 <h1 align="center">🤖 WestcodesideGPT</h1>
